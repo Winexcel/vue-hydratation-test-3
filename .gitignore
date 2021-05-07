@@ -1,2 +1,4 @@
 vue2/node_modules
 vue3/node_modules
+vue2/package-lock.json
+vue3/package-lock.json
